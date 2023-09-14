@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoZad
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++ and Python and others
 - 💞️ I’m looking to collaborate on any programming project
 - 📫 How to reach me: Instagram @zadjooj
 
