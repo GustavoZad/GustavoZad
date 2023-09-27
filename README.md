@@ -1,4 +1,11 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Welcome to my profile! 😁
+
+- 👋 Hi, I’m @GustavoZad
+- 👀 I’m interested in programming and games
+- 🌱 I’m currently learning C++ and Python and others
+- 💞️ I’m looking to collaborate on any programming project
+- 📫 How to reach me: Instagram @zadjooj
+
 
  <div>
    <a href="https://github.com/GustavoZad">
@@ -14,7 +21,7 @@
  
 <br>
  
-### Minhas redes sociais:
+### My socials:
  
 <div> 
   <a href="https://instagram.com/zadjooj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
