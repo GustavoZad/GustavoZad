@@ -6,13 +6,13 @@
 - 💞️ I'm looking for a job and to collaborate on any data project
 
 
- <!-- Seu comentário aqui  
+ !-- Seu comentário aqui  
  <div>
    <a href="https://github.com/GustavoZad">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoZad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
--->
+--
 
     
 <div style="display: inline_block"><br>
