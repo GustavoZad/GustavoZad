@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @GustavoZad
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning C++, HTML, Python and others
-- 💞️ I'm looking for a job and to collaborate on any programming project
+- 🌱 I’m currently learning Data, Python, HTML and others
+- 💞️ I'm looking for a job and to collaborate on any data project
 
 
  <div>
