@@ -1,7 +1,7 @@
 ## Welcome to my profile! 😁
 
 - 👋 Hi, I’m @GustavoZad
-- 👀 I’m interested in programming and games
+- 👀 I’m interested in data, programming and games
 - 🌱 I’m currently learning Data, Python, AI, HTML and others
 - 💞️ I'm looking for a job and to collaborate on any data project
 
