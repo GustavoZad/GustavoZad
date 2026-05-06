@@ -19,6 +19,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63"><img src="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" height="40" alt="c logo" data-canonical-src="https://skillicons.dev/icons?i=c" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   </div>
 
+  <div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76f8ed17a46d9455525c109019a807f6ae5f4182481cb7f86531705aeef05811/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d6d616c75636f646573266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33"><img src="https://camo.githubusercontent.com/76f8ed17a46d9455525c109019a807f6ae5f4182481cb7f86531705aeef05811/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d6d616c75636f646573266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" height="220" alt="streak graph" data-canonical-src="https://streak-stats.demolab.com?user=malucodes&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" style="max-width: 100%; height: auto; max-height: 220px;"></a>
+</div>
+
  <!-- Seu comentário aqui  
  <div>
    <a href="https://github.com/GustavoZad">
